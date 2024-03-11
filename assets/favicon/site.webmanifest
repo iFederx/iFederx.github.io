@@ -1,6 +1,6 @@
 {
   "background_color": "#C1C139",
-  "display": "standalone",
+  "display": "browser",
   "icons": [
     {
       "sizes": "192x192",
